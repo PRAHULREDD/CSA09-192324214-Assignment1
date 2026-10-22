@@ -20,9 +20,3 @@ Use JDK 17 or newer. Open a terminal in the task folder and run `javac FileName.
 | Task10 | `src/parking/app/Main.java` / `parking.app.Main` |
 | Task11 | `ParkingSystem.java` / `ParkingSystem` |
 | Task12 | `ParkingSystemV2.java` / `ParkingSystemV2` |
-
-## Before submission
-- Execute every task on your own machine and save screenshots of the actual output in the relevant Task folder.
-- Complete the report requirements: analysis, pseudocode, UML, complexity comparisons, test table, hand-calculated revenue, and Task 12 impact/evaluation/defence. Source files alone do not meet all 50-mark requirements.
-- Commit progressively, at least one commit per task.
-- Replace any illustrative output or assumptions with measurements and evidence from your own execution.
